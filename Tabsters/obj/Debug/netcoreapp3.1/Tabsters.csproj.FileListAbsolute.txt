@@ -1,0 +1,16 @@
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Tabsters.exe
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Tabsters.deps.json
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Tabsters.runtimeconfig.json
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Tabsters.runtimeconfig.dev.json
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Tabsters.dll
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Tabsters.pdb
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.csprojAssemblyReference.cache
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.AssemblyInfoInputs.cache
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.AssemblyInfo.cs
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.csproj.CoreCompileInputs.cache
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.csproj.CopyComplete
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.dll
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.pdb
+C:\Users\Sylwia\Desktop\ESILV\Stage\Tests\Tabsters\obj\Debug\netcoreapp3.1\Tabsters.genruntimeconfig.cache
